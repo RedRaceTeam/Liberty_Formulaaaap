@@ -1,0 +1,6 @@
+{
+  "name": "Liberty Formula",
+  "description": "High-tech F1 Pit Wall Control interface for streamers and commentators featuring video feeds, telemetry, FIA notices, podium, live timing, RSS news, and admin diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
